@@ -1,0 +1,6 @@
+name: Clean
+version: '${project.version}'
+main: org.namspace.clean.Clean
+api-version: 1.17
+authors: [ namspaceprogram ]
+description: Stay light and dry with this plugin
